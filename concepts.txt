@@ -1,0 +1,7 @@
+TypeScript is a supreset of JavaScript.
+TypeScript code is compiled down to JavaScript code and is executed in the browser.
+
+Extension:
+ESLint : To get good code quality check support
+Path Intellisense
+Prettier - Code formatter
